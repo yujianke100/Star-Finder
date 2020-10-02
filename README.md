@@ -1,7 +1,7 @@
 # Star Finder
 It's my graduation project.
 
-### It can detect and recognize faces on the website.
+### It can detect and recognize images of faces on the website.
 
 ## Used program
 
