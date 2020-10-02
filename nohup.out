@@ -1,0 +1,1585 @@
+[13:16:22] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:22] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:22] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:22] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:22] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:22] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:22] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:22] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:22] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:22] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:22] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:22] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:22] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:22] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:29] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v1.0.0. Attempting to upgrade...
+[13:16:29] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:29] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:29] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:29] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:29] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:29] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:29] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[13:16:29] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[13:16:29] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:33:58] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:33:58] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:33:58] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:33:58] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:33:58] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:33:58] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:33:58] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:33:58] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:33:58] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:33:58] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:33:58] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:33:58] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:33:58] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:33:58] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:34:05] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v1.0.0. Attempting to upgrade...
+[14:34:05] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:34:05] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:34:05] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:34:05] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:34:05] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:34:05] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:34:05] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[14:34:05] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[14:34:05] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:20] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:20] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:20] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:20] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:20] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:20] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:20] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:20] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:20] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:20] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:20] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:20] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:20] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:20] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:26] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v1.0.0. Attempting to upgrade...
+[20:08:26] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:27] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:27] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:27] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:27] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:27] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:27] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[20:08:27] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[20:08:27] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+loading models/model-y1-test2/model 0
+
+
+init compelete, and now I knowed:
+
+林俊杰
+姚明
+朱一龙
+刘德华
+易烊千玺
+angelababy
+林志玲
+特朗普
+黄渤
+王俊凯
+周杰伦
+刘亦菲
+黄晓明
+李现
+鹿晗
+杨幂
+基努里维斯
+王宝强
+花泽香菜
+普京
+胡歌
+周星驰
+张国荣
+find_face is running!
+./input/up_5e0f2e5972937.jfif
+delete:./result/list
+delete:./result/angelababy.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e0f2e5972937.jfif
+this is 刘亦菲! And the similarity degree is:0.9176610112190247
+./input/up_5e0f2ec9a51e5.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f2ec9a51e5.jfif
+I don't know who is it! And the similarity degree is:1.3030660152435303
+I don't know who is it! And the similarity degree is:2
+this is 黄晓明! And the similarity degree is:0.9611150622367859
+I don't know who is it! And the similarity degree is:1.3454991579055786
+I don't know who is it! And the similarity degree is:1.2918457984924316
+I don't know who is it! And the similarity degree is:1.0119619369506836
+I don't know who is it! And the similarity degree is:1.352750539779663
+I don't know who is it! And the similarity degree is:2
+./input/up_5e0f2edfc49e8.jpg
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f2edfc49e8.jpg
+I don't know who is it! And the similarity degree is:1.1500200033187866
+I don't know who is it! And the similarity degree is:1.1865307092666626
+I don't know who is it! And the similarity degree is:1.2047078609466553
+I don't know who is it! And the similarity degree is:1.2840287685394287
+I don't know who is it! And the similarity degree is:1.1932570934295654
+I don't know who is it! And the similarity degree is:1.2104121446609497
+I don't know who is it! And the similarity degree is:1.0861891508102417
+I don't know who is it! And the similarity degree is:1.2244983911514282
+./input/up_5e0f2f385f30d.jfif
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f2f385f30d.jfif
+I don't know who is it! And the similarity degree is:1.3030660152435303
+I don't know who is it! And the similarity degree is:2
+this is 黄晓明! And the similarity degree is:0.9611150622367859
+I don't know who is it! And the similarity degree is:1.3454991579055786
+I don't know who is it! And the similarity degree is:1.2918457984924316
+I don't know who is it! And the similarity degree is:1.0119619369506836
+I don't know who is it! And the similarity degree is:1.352750539779663
+I don't know who is it! And the similarity degree is:2
+./input/up_5e0f2f532c8e6.jpg
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f2f532c8e6.jpg
+I don't know who is it! And the similarity degree is:1.1500200033187866
+I don't know who is it! And the similarity degree is:1.1865307092666626
+I don't know who is it! And the similarity degree is:1.2047078609466553
+I don't know who is it! And the similarity degree is:1.2840287685394287
+I don't know who is it! And the similarity degree is:1.1932570934295654
+I don't know who is it! And the similarity degree is:1.2104121446609497
+I don't know who is it! And the similarity degree is:1.0861891508102417
+I don't know who is it! And the similarity degree is:1.2244983911514282
+./input/up_5e0f2f93e2d26.jfif
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f2f93e2d26.jfif
+I don't know who is it! And the similarity degree is:1.3030660152435303
+I don't know who is it! And the similarity degree is:2
+this is 黄晓明! And the similarity degree is:0.9611150622367859
+I don't know who is it! And the similarity degree is:1.3454991579055786
+I don't know who is it! And the similarity degree is:1.2918457984924316
+I don't know who is it! And the similarity degree is:1.0119619369506836
+I don't know who is it! And the similarity degree is:1.352750539779663
+I don't know who is it! And the similarity degree is:2
+./input/up_5e0f30217689e.jfif
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+found the face!
+found the face!
+delete:./input/up_5e0f30217689e.jfif
+this is angelababy! And the similarity degree is:0.9361230134963989
+I don't know who is it! And the similarity degree is:1.1065385341644287
+./input/up_5e0f3054140f6.jfif
+delete:./result/list
+delete:./result/angelababy.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f3054140f6.jfif[22:15:03] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:03] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:03] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:03] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:03] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:03] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:03] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:03] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:03] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:03] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:03] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:03] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:03] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:03] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:10] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v1.0.0. Attempting to upgrade...
+[22:15:10] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:10] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:10] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:10] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:10] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:10] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:10] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:15:10] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:15:10] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+loading models/model-y1-test2/model 0
+
+
+init compelete, and now I knowed:
+
+林俊杰
+姚明
+朱一龙
+刘德华
+易烊千玺
+angelababy
+林志玲
+特朗普
+黄渤
+王俊凯
+周杰伦
+刘亦菲
+黄晓明
+李现
+鹿晗
+杨幂
+基努里维斯
+王宝强
+花泽香菜
+普京
+胡歌
+周星驰
+张国荣
+find_face is running!
+./input/up_5e0f4c8ba9031.jfif
+delete:./result/list
+delete:./input/up_5e0f4c8ba9031.jfif
+don't have face!
+Traceback (most recent call last):
+  File "main.py", line 131, in <module>
+    file.write(endTime - startTime)
+TypeError: write() argument must be str, not float
+[22:16:21] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:21] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:21] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:21] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:21] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:21] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:21] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:21] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:21] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:21] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:21] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:21] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:21] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:21] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:28] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v1.0.0. Attempting to upgrade...
+[22:16:28] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:28] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:28] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:28] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:28] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:28] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:28] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+[22:16:28] src/nnvm/legacy_json_util.cc:209: Loading symbol saved by previous version v0.8.0. Attempting to upgrade...
+[22:16:28] src/nnvm/legacy_json_util.cc:217: Symbol successfully upgraded!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+loading models/model-y1-test2/model 0
+
+
+init compelete, and now I knowed:
+
+林俊杰
+姚明
+朱一龙
+刘德华
+易烊千玺
+angelababy
+林志玲
+特朗普
+黄渤
+王俊凯
+周杰伦
+刘亦菲
+黄晓明
+李现
+鹿晗
+杨幂
+基努里维斯
+王宝强
+花泽香菜
+普京
+胡歌
+周星驰
+张国荣
+find_face is running!
+./input/up_5e0f4cc97f563.jfif
+delete:./result/list
+delete:./input/up_5e0f4cc97f563.jfif
+don't have face!
+./input/up_5e0f4d07006af.jpg
+delete:./result/list
+found the face!
+delete:./input/up_5e0f4d07006af.jpg
+this is 林俊杰! And the similarity degree is:0.7761440277099609
+./input/up_5e0f4d1a37293.jpg
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e0f4d1a37293.jpg
+this is 林俊杰! And the similarity degree is:0.7761440277099609
+./input/up_5e0f4d23b1a6c.jpg
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e0f4d23b1a6c.jpg
+this is 林俊杰! And the similarity degree is:0.15365974605083466
+./input/up_5e0f4db7a2c32.jfif
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./input/up_5e0f4db7a2c32.jfif
+don't have face!
+./input/up_5e0f4dcce9ed1.jpg
+delete:./result/list
+found the face!
+delete:./input/up_5e0f4dcce9ed1.jpg
+this is 林俊杰! And the similarity degree is:0.7761440277099609
+./input/up_5e0f4df368076.jpg
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e0f4df368076.jpg
+this is 林俊杰! And the similarity degree is:0.7761440277099609
+./input/up_5e0f4f73d2634.jfif
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f4f73d2634.jfif
+I don't know who is it! And the similarity degree is:1.2581932544708252
+I don't know who is it! And the similarity degree is:1.3404273986816406
+I don't know who is it! And the similarity degree is:1.2927000522613525
+I don't know who is it! And the similarity degree is:1.2338414192199707
+I don't know who is it! And the similarity degree is:1.2551923990249634
+I don't know who is it! And the similarity degree is:1.1247822046279907
+I don't know who is it! And the similarity degree is:1.2978864908218384
+I don't know who is it! And the similarity degree is:1.2867685556411743
+I don't know who is it! And the similarity degree is:1.248557448387146
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.2520241737365723
+I don't know who is it! And the similarity degree is:1.2925927639007568
+I don't know who is it! And the similarity degree is:1.2661575078964233
+I don't know who is it! And the similarity degree is:1.2947367429733276
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.2292028665542603
+I don't know who is it! And the similarity degree is:1.2618215084075928
+I don't know who is it! And the similarity degree is:1.33318293094635
+./input/up_5e0f4fc502fcb.jfif
+delete:./result/list
+delete:./result/unknowFace15.jpg
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/unknowFace16.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace14.jpg
+delete:./result/unknowFace17.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace16.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace17.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f4fc502fcb.jfif
+I don't know who is it! And the similarity degree is:1.2581932544708252
+I don't know who is it! And the similarity degree is:1.3404273986816406
+I don't know who is it! And the similarity degree is:1.2927000522613525
+I don't know who is it! And the similarity degree is:1.2338414192199707
+I don't know who is it! And the similarity degree is:1.2551923990249634
+I don't know who is it! And the similarity degree is:1.1247822046279907
+I don't know who is it! And the similarity degree is:1.2978864908218384
+I don't know who is it! And the similarity degree is:1.2867685556411743
+I don't know who is it! And the similarity degree is:1.248557448387146
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.2520241737365723
+I don't know who is it! And the similarity degree is:1.2925927639007568
+I don't know who is it! And the similarity degree is:1.2661575078964233
+I don't know who is it! And the similarity degree is:1.2947367429733276
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.2292028665542603
+I don't know who is it! And the similarity degree is:1.2618215084075928
+I don't know who is it! And the similarity degree is:1.33318293094635
+./input/up_5e0f4fda80df8.jfif
+delete:./result/list
+delete:./result/unknowFace15.jpg
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/unknowFace16.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace14.jpg
+delete:./result/unknowFace17.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace16.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace17.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e0f4fda80df8.jfif
+I don't know who is it! And the similarity degree is:1.2581932544708252
+I don't know who is it! And the similarity degree is:1.3404273986816406
+I don't know who is it! And the similarity degree is:1.2927000522613525
+I don't know who is it! And the similarity degree is:1.2338414192199707
+I don't know who is it! And the similarity degree is:1.2551923990249634
+I don't know who is it! And the similarity degree is:1.1247822046279907
+I don't know who is it! And the similarity degree is:1.2978864908218384
+I don't know who is it! And the similarity degree is:1.2867685556411743
+I don't know who is it! And the similarity degree is:1.248557448387146
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.2520241737365723
+I don't know who is it! And the similarity degree is:1.2925927639007568
+I don't know who is it! And the similarity degree is:1.2661575078964233
+I don't know who is it! And the similarity degree is:1.2947367429733276
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.2292028665542603
+I don't know who is it! And the similarity degree is:1.2618215084075928
+I don't know who is it! And the similarity degree is:1.33318293094635
+./input/up_5e0f4fe9b38b7.jpg
+delete:./result/list
+delete:./result/unknowFace15.jpg
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/unknowFace16.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace14.jpg
+delete:./result/unknowFace17.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace16.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace17.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+found the face!
+delete:./input/up_5e0f4fe9b38b7.jpg
+this is 林俊杰! And the similarity degree is:0.7761440277099609
+./input/up_5e0f6332740d3.jpg
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+delete:./input/up_5e0f6332740d3.jpg
+I don't know who is it! And the similarity degree is:1.3020923137664795
+this is 刘亦菲! And the similarity degree is:0.7944827079772949
+./input/up_5e4b69a7c2d7c.jpg
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e4b69a7c2d7c.jpg
+this is 姚明! And the similarity degree is:0.6818850636482239
+./input/up_5e6234d7bf97c.jpg
+delete:./result/list
+delete:./result/姚明.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e6234d7bf97c.jpg
+this is 林俊杰! And the similarity degree is:0.15365974605083466
+./input/up_5e6601d3229fe.jfif
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e6601d3229fe.jfif
+this is 刘亦菲! And the similarity degree is:0.8084179759025574
+./input/up_5e660d0970f31.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+delete:./input/up_5e660d0970f31.jfif
+I don't know who is it! And the similarity degree is:1.232020616531372
+this is 黄晓明! And the similarity degree is:0.8865428566932678
+./input/up_5e660d287f0a3.jfif
+delete:./result/list
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+delete:./input/up_5e660d287f0a3.jfif
+I don't know who is it! And the similarity degree is:1.0527375936508179
+this is 黄晓明! And the similarity degree is:0.9511324167251587
+./input/up_5e660d47dc761.png
+delete:./result/list
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+delete:./input/up_5e660d47dc761.png
+this is angelababy! And the similarity degree is:0.8167141079902649
+I don't know who is it! And the similarity degree is:1.048625111579895
+./input/up_5e660d6a34faf.jfif
+delete:./result/list
+delete:./result/angelababy.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e660d6a34faf.jfif
+this is 黄晓明! And the similarity degree is:0.9189812541007996
+this is angelababy! And the similarity degree is:0.9212249517440796
+I don't know who is it! And the similarity degree is:1.2462519407272339
+./input/up_5e660da0dff50.jfif
+delete:./result/list
+delete:./result/angelababy.jpg
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+delete:./input/up_5e660da0dff50.jfif
+this is 黄晓明! And the similarity degree is:0.9189812541007996
+this is angelababy! And the similarity degree is:0.9212249517440796
+I don't know who is it! And the similarity degree is:1.2462519407272339
+./input/up_5e69e03301d4e.jfif
+delete:./result/list
+delete:./result/angelababy.jpg
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e69e03301d4e.jfif
+this is 刘亦菲! And the similarity degree is:0.8084179759025574
+./input/up_5e69e7bb66943.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e69e7bb66943.jfif
+this is 刘亦菲! And the similarity degree is:0.8084179759025574
+./input/up_5e6dd056ba387.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e6dd056ba387.jfif
+this is 刘亦菲! And the similarity degree is:0.8084179759025574
+./input/up_5e6dd339e3dd1.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5e6dd339e3dd1.jfif
+this is 刘亦菲! And the similarity degree is:0.8084179759025574
+./input/up_5ec4d07f69b80.jpg
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5ec4d07f69b80.jpg
+this is 林俊杰! And the similarity degree is:0.8805060982704163
+./input/up_5ec4dfd3352bb.jpg
+delete:./result/list
+delete:./result/林俊杰.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5ec4dfd3352bb.jpg
+this is 姚明! And the similarity degree is:0.8667405247688293
+./input/up_5ec4e0243275c.jpg
+delete:./result/list
+delete:./result/姚明.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./input/up_5ec4e0243275c.jpg
+don't have face!
+./input/up_5ec4e1ed6dbb4.jpg
+delete:./result/list
+delete:./input/up_5ec4e1ed6dbb4.jpg
+don't have face!
+./input/up_5ed0bcc9bd565.jfif
+delete:./result/list
+found the face!
+delete:./input/up_5ed0bcc9bd565.jfif
+this is 姚明! And the similarity degree is:0.8439726829528809
+./input/up_5ed0bcf203ff3.jfif
+delete:./result/list
+delete:./result/姚明.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./input/up_5ed0bcf203ff3.jfif
+don't have face!
+./input/up_5ed0bd4fc17f3.jfif
+delete:./result/list
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed0bd4fc17f3.jfif
+I don't know who is it! And the similarity degree is:1.2708722352981567
+I don't know who is it! And the similarity degree is:1.300062894821167
+this is 黄晓明! And the similarity degree is:0.9764681458473206
+I don't know who is it! And the similarity degree is:1.2493149042129517
+I don't know who is it! And the similarity degree is:1.2146623134613037
+I don't know who is it! And the similarity degree is:2
+./input/up_5ed0bd8c4dcb9.jfif
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/黄晓明.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed0bd8c4dcb9.jfif
+I don't know who is it! And the similarity degree is:1.2087211608886719
+I don't know who is it! And the similarity degree is:1.2106505632400513
+I don't know who is it! And the similarity degree is:1.296828269958496
+I don't know who is it! And the similarity degree is:1.2836041450500488
+I don't know who is it! And the similarity degree is:1.2186840772628784
+I don't know who is it! And the similarity degree is:1.2685308456420898
+I don't know who is it! And the similarity degree is:1.2385308742523193
+I don't know who is it! And the similarity degree is:1.2201038599014282
+I don't know who is it! And the similarity degree is:1.2681318521499634
+I don't know who is it! And the similarity degree is:1.3185341358184814
+I don't know who is it! And the similarity degree is:1.207302212715149
+I don't know who is it! And the similarity degree is:1.289058804512024
+I don't know who is it! And the similarity degree is:1.3007797002792358
+./input/up_5ed226d44ae05.jfif
+delete:./result/list
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed226d44ae05.jfif
+I don't know who is it! And the similarity degree is:1.156420350074768
+I don't know who is it! And the similarity degree is:1.2362425327301025
+I don't know who is it! And the similarity degree is:1.2024179697036743
+I don't know who is it! And the similarity degree is:1.2625367641448975
+I don't know who is it! And the similarity degree is:1.1959409713745117
+I don't know who is it! And the similarity degree is:1.117364764213562
+I don't know who is it! And the similarity degree is:1.1792455911636353
+./input/up_5ed2273184cb8.jfif
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed2273184cb8.jfif
+this is 刘亦菲! And the similarity degree is:0.8648667335510254
+I don't know who is it! And the similarity degree is:1.206694483757019
+I don't know who is it! And the similarity degree is:1.1665232181549072
+I don't know who is it! And the similarity degree is:1.2764809131622314
+./input/up_5ed22764353ce.jfif
+delete:./result/list
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/刘亦菲.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed22764353ce.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.058506965637207
+I don't know who is it! And the similarity degree is:1.1600972414016724
+I don't know who is it! And the similarity degree is:2
+this is 刘亦菲! And the similarity degree is:0.8171144127845764
+./input/up_5ed2279f453cd.jfif
+delete:./result/list
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/刘亦菲.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed2279f453cd.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.1286906003952026
+I don't know who is it! And the similarity degree is:1.305503487586975
+I don't know who is it! And the similarity degree is:1.3097317218780518
+this is 普京! And the similarity degree is:0.64296954870224
+./input/up_5ed227c41bac1.jfif
+delete:./result/list
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed227c41bac1.jfif
+I don't know who is it! And the similarity degree is:1.2806276082992554
+I don't know who is it! And the similarity degree is:1.2934422492980957
+I don't know who is it! And the similarity degree is:1.2638258934020996
+this is 普京! And the similarity degree is:0.5001557469367981
+I don't know who is it! And the similarity degree is:1.017425537109375
+I don't know who is it! And the similarity degree is:1.3236743211746216
+I don't know who is it! And the similarity degree is:2
+./input/up_5ed227ffeecf3.jfif
+delete:./result/list
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace5.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed227ffeecf3.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.3068349361419678
+I don't know who is it! And the similarity degree is:1.1869665384292603
+I don't know who is it! And the similarity degree is:1.3386356830596924
+I don't know who is it! And the similarity degree is:1.3413424491882324
+I don't know who is it! And the similarity degree is:1.3127167224884033
+this is 普京! And the similarity degree is:0.8659824728965759
+I don't know who is it! And the similarity degree is:1.2552047967910767
+I don't know who is it! And the similarity degree is:1.2945297956466675
+I don't know who is it! And the similarity degree is:1.2985011339187622
+I don't know who is it! And the similarity degree is:1.2498500347137451
+I don't know who is it! And the similarity degree is:1.26237154006958
+I don't know who is it! And the similarity degree is:1.3068747520446777
+I don't know who is it! And the similarity degree is:1.2988152503967285
+this is 特朗普! And the similarity degree is:0.9743474125862122
+I don't know who is it! And the similarity degree is:1.2668936252593994
+./input/up_5ed228b915512.jfif
+delete:./result/list
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/特朗普.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+delete:./input/up_5ed228b915512.jfif
+don't have face!
+./input/up_5ed22920d2aea.jfif
+delete:./result/list
+found the face!
+delete:./input/up_5ed22920d2aea.jfif
+this is 刘亦菲! And the similarity degree is:0.686575710773468
+./input/up_5ed22b9062bb5.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed22b9062bb5.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.3068349361419678
+I don't know who is it! And the similarity degree is:1.1869665384292603
+I don't know who is it! And the similarity degree is:1.3386356830596924
+I don't know who is it! And the similarity degree is:1.3413424491882324
+I don't know who is it! And the similarity degree is:1.3127167224884033
+this is 普京! And the similarity degree is:0.8659824728965759
+I don't know who is it! And the similarity degree is:1.2552047967910767
+I don't know who is it! And the similarity degree is:1.2945297956466675
+I don't know who is it! And the similarity degree is:1.2985011339187622
+I don't know who is it! And the similarity degree is:1.2498500347137451
+I don't know who is it! And the similarity degree is:1.26237154006958
+I don't know who is it! And the similarity degree is:1.3068747520446777
+I don't know who is it! And the similarity degree is:1.2988152503967285
+this is 特朗普! And the similarity degree is:0.9743474125862122
+I don't know who is it! And the similarity degree is:1.2668936252593994
+./input/up_5ed3a2530481f.jfif
+delete:./result/list
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/特朗普.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+found the face!
+delete:./input/up_5ed3a2530481f.jfif
+this is 刘亦菲! And the similarity degree is:0.686575710773468
+./input/up_5ed3a263d6115.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed3a263d6115.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.3068349361419678
+I don't know who is it! And the similarity degree is:1.1869665384292603
+I don't know who is it! And the similarity degree is:1.3386356830596924
+I don't know who is it! And the similarity degree is:1.3413424491882324
+I don't know who is it! And the similarity degree is:1.3127167224884033
+this is 普京! And the similarity degree is:0.8659824728965759
+I don't know who is it! And the similarity degree is:1.2552047967910767
+I don't know who is it! And the similarity degree is:1.2945297956466675
+I don't know who is it! And the similarity degree is:1.2985011339187622
+I don't know who is it! And the similarity degree is:1.2498500347137451
+I don't know who is it! And the similarity degree is:1.26237154006958
+I don't know who is it! And the similarity degree is:1.3068747520446777
+I don't know who is it! And the similarity degree is:1.2988152503967285
+this is 特朗普! And the similarity degree is:0.9743474125862122
+I don't know who is it! And the similarity degree is:1.2668936252593994
+./input/up_5ed3a27f6aa88.jfif
+delete:./result/list
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/特朗普.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+delete:./input/up_5ed3a27f6aa88.jfif
+don't have face!
+./input/up_5ed48fe6bbd85.jfif
+delete:./result/list
+found the face!
+delete:./input/up_5ed48fe6bbd85.jfif
+this is 刘亦菲! And the similarity degree is:0.686575710773468
+./input/up_5ed48ff3cfd69.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed48ff3cfd69.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.3068349361419678
+I don't know who is it! And the similarity degree is:1.1869665384292603
+I don't know who is it! And the similarity degree is:1.3386356830596924
+I don't know who is it! And the similarity degree is:1.3413424491882324
+I don't know who is it! And the similarity degree is:1.3127167224884033
+this is 普京! And the similarity degree is:0.8659824728965759
+I don't know who is it! And the similarity degree is:1.2552047967910767
+I don't know who is it! And the similarity degree is:1.2945297956466675
+I don't know who is it! And the similarity degree is:1.2985011339187622
+I don't know who is it! And the similarity degree is:1.2498500347137451
+I don't know who is it! And the similarity degree is:1.26237154006958
+I don't know who is it! And the similarity degree is:1.3068747520446777
+I don't know who is it! And the similarity degree is:1.2988152503967285
+this is 特朗普! And the similarity degree is:0.9743474125862122
+I don't know who is it! And the similarity degree is:1.2668936252593994
+./input/up_5ed49d9a03674.jfif
+delete:./result/list
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/特朗普.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+found the face!
+delete:./input/up_5ed49d9a03674.jfif
+this is 刘亦菲! And the similarity degree is:0.686575710773468
+./input/up_5ed49dab75f07.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed49dab75f07.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.3068349361419678
+I don't know who is it! And the similarity degree is:1.1869665384292603
+I don't know who is it! And the similarity degree is:1.3386356830596924
+I don't know who is it! And the similarity degree is:1.3413424491882324
+I don't know who is it! And the similarity degree is:1.3127167224884033
+this is 普京! And the similarity degree is:0.8659824728965759
+I don't know who is it! And the similarity degree is:1.2552047967910767
+I don't know who is it! And the similarity degree is:1.2945297956466675
+I don't know who is it! And the similarity degree is:1.2985011339187622
+I don't know who is it! And the similarity degree is:1.2498500347137451
+I don't know who is it! And the similarity degree is:1.26237154006958
+I don't know who is it! And the similarity degree is:1.3068747520446777
+I don't know who is it! And the similarity degree is:1.2988152503967285
+this is 特朗普! And the similarity degree is:0.9743474125862122
+I don't know who is it! And the similarity degree is:1.2668936252593994
+./input/up_5ed49dd94a2d7.jfif
+delete:./result/list
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/特朗普.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
+delete:./unknowFace/unknowFace14.jpg
+delete:./unknowFace/unknowFace5.jpg
+delete:./unknowFace/unknowFace7.jpg
+delete:./unknowFace/unknowFace8.jpg
+delete:./input/up_5ed49dd94a2d7.jfif
+don't have face!
+./input/up_5ed49e6d6634e.jfif
+delete:./result/list
+found the face!
+delete:./input/up_5ed49e6d6634e.jfif
+this is 姚明! And the similarity degree is:0.7498340010643005
+./input/up_5ed5041a4da47.jfif
+delete:./result/list
+delete:./result/姚明.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+delete:./input/up_5ed5041a4da47.jfif
+this is 刘亦菲! And the similarity degree is:0.686575710773468
+./input/up_5ed5042712140.jfif
+delete:./result/list
+delete:./result/刘亦菲.jpg
+delete:./unknowFace/unknowFace0.jpg
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+found the face!
+delete:./input/up_5ed5042712140.jfif
+I don't know who is it! And the similarity degree is:2
+I don't know who is it! And the similarity degree is:1.3068349361419678
+I don't know who is it! And the similarity degree is:1.1869665384292603
+I don't know who is it! And the similarity degree is:1.3386356830596924
+I don't know who is it! And the similarity degree is:1.3413424491882324
+I don't know who is it! And the similarity degree is:1.3127167224884033
+this is 普京! And the similarity degree is:0.8659824728965759
+I don't know who is it! And the similarity degree is:1.2552047967910767
+I don't know who is it! And the similarity degree is:1.2945297956466675
+I don't know who is it! And the similarity degree is:1.2985011339187622
+I don't know who is it! And the similarity degree is:1.2498500347137451
+I don't know who is it! And the similarity degree is:1.26237154006958
+I don't know who is it! And the similarity degree is:1.3068747520446777
+I don't know who is it! And the similarity degree is:1.2988152503967285
+this is 特朗普! And the similarity degree is:0.9743474125862122
+I don't know who is it! And the similarity degree is:1.2668936252593994
+./input/up_5ed5043bbfc1a.jfif
+delete:./result/list
+delete:./result/unknowFace12.jpg
+delete:./result/unknowFace9.jpg
+delete:./result/unknowFace4.jpg
+delete:./result/unknowFace11.jpg
+delete:./result/unknowFace6.jpg
+delete:./result/unknowFace1.jpg
+delete:./result/unknowFace2.jpg
+delete:./result/unknowFace10.jpg
+delete:./result/特朗普.jpg
+delete:./result/unknowFace13.jpg
+delete:./result/unknowFace3.jpg
+delete:./result/unknowFace0.jpg
+delete:./result/unknowFace5.jpg
+delete:./result/unknowFace7.jpg
+delete:./result/unknowFace8.jpg
+delete:./result/普京.jpg
+delete:./unknowFace/unknowFace15.jpg
+delete:./unknowFace/unknowFace12.jpg
+delete:./unknowFace/unknowFace9.jpg
+delete:./unknowFace/unknowFace4.jpg
+delete:./unknowFace/unknowFace11.jpg
+delete:./unknowFace/unknowFace6.jpg
+delete:./unknowFace/unknowFace1.jpg
+delete:./unknowFace/unknowFace2.jpg
+delete:./unknowFace/unknowFace10.jpg
+delete:./unknowFace/unknowFace13.jpg
+delete:./unknowFace/unknowFace3.jpg
+delete:./unknowFace/unknowFace0.jpg
